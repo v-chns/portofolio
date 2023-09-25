@@ -21,7 +21,7 @@ const HeroSection = () => {
                 {/* image */}
                 <div className="col-span-5 place-self-center mt-4 lg:mt-0">
                     <Image
-                        src="/images/hero-image.png"
+                        src="https://v-chns.github.io/portofolio/images/hero-image.png"
                         alt="3d-profile"
                         width={300}
                         height={300}
