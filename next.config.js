@@ -2,14 +2,16 @@
 module.exports = {
     // Other configuration options...
   
-    exportPathMap: async function () {
-      return {
-        // Define your pages here for static export
-        '/': { page: '/' },
-        // Add more pages as needed
-      };
-    },
+    trailingSlash: true, // Use trailingSlash instead of exportTrailingSlash
   
-    // Enable static HTML export
-    exportTrailingSlash: true,
+    // Define your static paths using generateStaticParams
+    async generateStaticParams() {
+      // Define your static paths here
+      return [
+        {
+          route: '/',
+        },
+        // Add more paths as needed
+      ];
+    },
   };
