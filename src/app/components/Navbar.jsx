@@ -9,7 +9,7 @@ function Navbar() {
            {/* logo */}
             <Link href={"/"}>
                 <Image
-                    src="/images/logo.png"
+                    src="https://v-chns.github.io/portofolio/images/logo.png"
                     alt="logo"
                     width={70}
                     height={70}
