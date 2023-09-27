@@ -52,7 +52,7 @@ const AboutSection = () => {
     <section className="text-white">
         <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
             {/* image */}
-            <Image src="/images/about-image.png" width={700} height={700} className="" />
+            <Image src="https://v-chns.github.io/portofolio/images/about-image.png" width={700} height={700} className="" />
 
             {/* tabs */}
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full justify-center">
