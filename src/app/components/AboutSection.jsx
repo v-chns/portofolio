@@ -57,7 +57,7 @@ const AboutSection = () => {
             {/* tabs */}
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full justify-center">
                 <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-                <p className="text-base lg:text-lg">Hi! My name is <b>Vanessa Chans</b>, a third-year Computer Science student majoring in Database Technology, I'm enthusiastic about data-driven solutions, web/app development, and programming. Currently open to exploring internship opportunities and eager to connect with individuals who share my enthusiasm for technology and data.
+                <p className="text-base lg:text-lg">Hi! My name is <b>Vanessa Chans</b>, a third-year Computer Science student majoring in Database Technology. I&lsquo;m enthusiastic about data-driven solutions, web/app development, and programming. Currently open to exploring internship opportunities and eager to connect with individuals who share my enthusiasm for technology and data.
                 </p>
                 <div className="flex flex-row justify-start mt-8">
                     {/* Skills */}
