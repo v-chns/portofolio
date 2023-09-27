@@ -21,11 +21,11 @@ const navLinks = [
     }
 ]
 
-function Navbar() {
+const Navbar = () => {
     const [navbarOpen, setNavbarOpen] = useState(false);
 
     return (
-        <nav className="fixed top-0 left-0 right-0 z-10 bg-[#1f1f1f] bg-opacity-80 backdrop-blur-sm">
+        <nav className="fixed top-0 left-0 right-0 z-10 bg-[#1d1d1d] bg-opacity-80 backdrop-blur-sm">
             <div className='flex flex-wrap items-center justify-between mx-auto px-5 py-2'>
                 {/* logo */}
                 <Link href={"/"}>
