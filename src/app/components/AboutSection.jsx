@@ -9,10 +9,10 @@ const TAB_DATA = [
         id: "skills",
         content: (
            <ul className="list-disc pl-2">
-                <li>Database: MySQL, MSSQL</li>
-                <li>Data Analytics: Python, Apache Spark, Hadoop, Tableau</li>
-                <li>Website Development: React, HTML, CSS, JavaScript</li>
-                <li>UI/UX Design: Figma, Axure</li>
+                <li><b>Database:</b> MySQL, MSSQL</li>
+                <li><b>Data Analytics:</b> Python, R, Apache Spark, Hadoop, Tableau</li>
+                <li><b>Website Development:</b> React, HTML, CSS, JavaScript</li>
+                <li><b>UI/UX Design:</b> Figma, Axure</li>
            </ul> 
         )
     },
@@ -21,8 +21,8 @@ const TAB_DATA = [
         id: "education",
         content: (
            <ul className="list-disc pl-2">
-                <li>BINUS University - Computer Science Major (2021-2025)</li>
-                <li>SMA Athalia - Science Major (2018-2021)</li>
+                <li><b>BINUS University</b> - Computer Science Major (2021-2025)</li>
+                <li><b>SMA Athalia</b> - Science Major (2018-2021)</li>
            </ul> 
         )
     },
@@ -49,7 +49,7 @@ const AboutSection = () => {
     };
 
   return (
-    <section className="text-white">
+    <section className="text-white pt-10" id='aboutme'>
         <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
             {/* image */}
             <Image src="https://v-chns.github.io/portofolio/images/about-image.png" width={700} height={700} className="" />
@@ -57,7 +57,7 @@ const AboutSection = () => {
             {/* tabs */}
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full justify-center">
                 <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-                <p className="text-base lg:text-lg">Hi! My name is <b>Vanessa Chans</b>, a third-year Computer Science student majoring in Database Technology. I&lsquo;m enthusiastic about data-driven solutions, web/app development, and programming. Currently open to exploring internship opportunities and eager to connect with individuals who share my enthusiasm for technology and data.
+                <p className="text-base lg:text-lg text-[#e0dbe7]">Hi! My name is <b>Vanessa Chans</b>, a third-year Computer Science student majoring in Database Technology. I&lsquo;m enthusiastic about data-driven solutions and web/app development. Currently open to exploring internship opportunities and eager to connect with individuals who share my excitement for technology and data.
                 </p>
                 <div className="flex flex-row justify-start mt-8">
                     {/* Skills */}
