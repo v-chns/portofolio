@@ -12,9 +12,9 @@ const ContactSection = () => {
                 <h5 className="text-4xl font-bold text-white my-3">Get In Touch</h5>
                 <p className="text-[#ADB7BE] mb-4 max-w-md text-base lg:text-lg">
                     {" "}
-                    I am currently looking for new opportunities and experiences:)
+                    I&rsquo;m currently looking for new opportunities and experiences:)
                     Feel free to reach me here, whether you have a question or just want to say hi.
-                    I'll try my best to get back to you!
+                    I&rsquo;ll try my best to get back to you!
                 </p>
 
                 <Link href="mailto:chansvanessa@gmail.com">
