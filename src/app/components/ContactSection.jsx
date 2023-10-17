@@ -8,7 +8,7 @@ const ContactSection = () => {
             <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[#753e8d] to-transparent rounded-full h-[25rem] w-[25rem] z--10 blur-2xl absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-y-1/2">
             </div>
             {/* text */}
-            <div className="pl-20 mt-4 md:mt-0 text-left flex flex-col h-full justify-center z-10">
+            <div className="sm:pl-20 mt-4 md:mt-0 text-left flex flex-col h-full justify-center z-10">
                 <h5 className="text-4xl font-bold text-white my-3">Get In Touch</h5>
                 <p className="text-[#ADB7BE] mb-4 max-w-md text-base lg:text-lg">
                     {" "}
@@ -29,13 +29,13 @@ const ContactSection = () => {
 
                 <div className="socials flex flex-row gap-4 justify-center sm:justify-start md:justify-start sm:ml-1">
                     <Link href="https://github.com/v-chns" target="_blank">
-                        <Image src="/images/github-icon.svg" width={45} height={45} alt='Github Icon' />
+                        <Image src="https://v-chns.github.io/portofolio/images/github-icon.svg" width={45} height={45} alt='Github Icon' />
                     </Link>
                     <Link href="https://www.linkedin.com/in/vanessa-chans/" target="_blank">
-                        <Image src="/images/linkedin-icon.svg" width={45} height={45} alt='LinkedIn Icon' />
+                        <Image src="https://v-chns.github.io/portofolio/images/linkedin-icon.svg" width={45} height={45} alt='LinkedIn Icon' />
                     </Link>
                     <Link href="https://www.instagram.com/vanessachns/" target="_blank">
-                        <Image src="/images/insta-icon.svg" width={45} height={45} alt='Insta Icon' />
+                        <Image src="https://v-chns.github.io/portofolio/images/insta-icon.svg" width={45} height={45} alt='Insta Icon' />
                     </Link>
                 </div>
             </div>

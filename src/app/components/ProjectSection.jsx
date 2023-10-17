@@ -9,7 +9,7 @@ const projectsData = [
         id: 1,
         title: "Portofolio Website\n",
         description: "Made using NextJs",
-        image: "/images/projects/project1.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Web"],
         codelink: "https://github.com/v-chns/portofolio",
         previewlink: "https://v-chns.github.io/portofolio/"
@@ -18,7 +18,7 @@ const projectsData = [
         id: 2,
         title: "Customer Insights: Analyzing Coffee Shop Reviews Data",
         description: "Data pre-processing using Python, and an interactive dashboard made with Tableau.",
-        image: "/images/projects/project2.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project2.png",
         tag: ["All", "Data Analytics"],
         codelink: "https://github.com/v-chns/ristek-final-project",
         previewlink: "https://drive.google.com/file/d/1LKTBKG0HVSNOl46iwjLm1Qz2ysmrHQ53/view?usp=sharing"
@@ -27,7 +27,7 @@ const projectsData = [
         id: 3,
         title: "TECHNO 2022 Website\n",
         description: "Landing page for HIMTI BINUS' event to welcome freshmen. Made using Bootstrap.",
-        image: "/images/projects/project3.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project3.png",
         tag: ["All", "Web"],
         codelink: "https://github.com/v-chns/TECHNO-2022",
         previewlink: "https://fluffy-custard-ef38b3.netlify.app/"
@@ -36,7 +36,7 @@ const projectsData = [
         id: 4,
         title: "Diabetes Prediction and Visualization using Spark’s Random Forest Classification",
         description: "Made as a final project for Big Data Processing course (2023)",
-        image: "/images/projects/project4.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project4.png",
         tag: ["All", "Data Analytics"],
         codelink: "https://github.com/v-chns/diabetes-prediction-model",
         previewlink: "https://drive.google.com/file/d/14YgOer3i9JTkbuCRX53dxBipjf-cKClk/view?usp=sharing"
@@ -45,7 +45,7 @@ const projectsData = [
         id: 5,
         title: "Mobile App Prototype",
         description: "Mobile App Prototype, made as a solution to help children with disabilities ",
-        image: "/images/projects/project1.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Prototype"],
         codelink: "/",
         previewlink: "/"
@@ -54,7 +54,7 @@ const projectsData = [
         id: 6,
         title: "BeeLive",
         description: "Made using Figma",
-        image: "/images/projects/project1.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Prototype"],
         codelink: "/",
         previewlink: "/"
