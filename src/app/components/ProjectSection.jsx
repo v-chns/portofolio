@@ -43,8 +43,8 @@ const projectsData = [
     },
     {
         id: 5,
-        title: "Mobile App Prototype",
-        description: "Mobile App Prototype, made as a solution to help children with disabilities ",
+        title: "ASAP - Assistance against Sexual Assault for Pedriatics-disability",
+        description: "Mobile App Prototype, made as a solution to educate and help children with disabilities regarding sexual assault",
         image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Prototype"],
         codelink: "/",

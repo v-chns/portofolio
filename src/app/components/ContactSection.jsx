@@ -27,7 +27,7 @@ const ContactSection = () => {
                     </button>
                 </Link>
 
-                <div className="socials flex flex-row gap-4 justify-center sm:justify-start md:justify-start sm:ml-1">
+                <div className="z-10 socials flex flex-row gap-4 justify-center sm:justify-start md:justify-start sm:ml-1">
                     <Link href="https://github.com/v-chns" target="_blank">
                         <Image src="https://v-chns.github.io/portofolio/images/github-icon.svg" width={45} height={45} alt='Github Icon' />
                     </Link>
