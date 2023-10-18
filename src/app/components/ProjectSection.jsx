@@ -45,10 +45,10 @@ const projectsData = [
         id: 5,
         title: "ASAP - Assistance against Sexual Assault for Pedriatics-disability",
         description: "Mobile App Prototype, made as a solution to educate and help children with disabilities regarding sexual assault",
-        image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project5.png",
         tag: ["All", "Prototype"],
-        codelink: "/",
-        previewlink: "/"
+        codelink: "https://www.canva.com/design/DAFpiNayDGw/o7pqtyLJHD1PXNmY1xngGA/view?utm_content=DAFpiNayDGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+        previewlink: "httphttps://www.figma.com/proto/nPsHWgjrtTAMxJyGGPEZeA/Venn---HackHerThon?type=design&node-id=2-10&t=oHxUCOl6erKE5e0O-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A10&mode=designs://www.canva.com/link?target=https%3A%2F%2Fwww.figma.com%2Ffile%2FnPsHWgjrtTAMxJyGGPEZeA%2FVenn---HackHerThon%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6GjnKHNK4mi8N1rh-1&design=DAFpiNayDGw&accessRole=owner&linkSource=document"
     },
     {
         id: 6,
