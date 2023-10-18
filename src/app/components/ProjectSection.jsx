@@ -8,7 +8,7 @@ const projectsData = [
     {
         id: 1,
         title: "Portofolio Website\n",
-        description: "Made using NextJs",
+        description: "Personal website to store information about myself. Made using NextJs. (2022)",
         image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Web"],
         codelink: "https://github.com/v-chns/portofolio",
@@ -16,8 +16,8 @@ const projectsData = [
     },
     {
         id: 2,
-        title: "Customer Insights: Analyzing Coffee Shop Reviews Data",
-        description: "Data pre-processing using Python, and an interactive dashboard made with Tableau.",
+        title: "Analyzing Customers Reviews",
+        description: "Data pre-processing using Python, and an interactive dashboard made with Tableau. (2023)",
         image: "https://v-chns.github.io/portofolio/images/projects/project2.png",
         tag: ["All", "Data Analytics"],
         codelink: "https://github.com/v-chns/ristek-final-project",
@@ -25,8 +25,8 @@ const projectsData = [
     },
     {
         id: 3,
-        title: "TECHNO 2022 Website\n",
-        description: "Landing page for HIMTI BINUS' event to welcome freshmen. Made using Bootstrap.",
+        title: "TECHNO 2022 Website",
+        description: "Landing page for HIMTI BINUS' event to welcome freshmen. Made using Bootstrap. (2022)",
         image: "https://v-chns.github.io/portofolio/images/projects/project3.png",
         tag: ["All", "Web"],
         codelink: "https://github.com/v-chns/TECHNO-2022",
@@ -34,8 +34,8 @@ const projectsData = [
     },
     {
         id: 4,
-        title: "Diabetes Prediction and Visualization using Spark’s Random Forest Classification",
-        description: "Made as a final project for Big Data Processing course (2023)",
+        title: "Diabetes Prediction and Visualizationn",
+        description: "Made as a final project for Big Data Processing course. Made using Spark’s Random Forest Classification. (2023)",
         image: "https://v-chns.github.io/portofolio/images/projects/project4.png",
         tag: ["All", "Data Analytics"],
         codelink: "https://github.com/v-chns/diabetes-prediction-model",
@@ -44,20 +44,20 @@ const projectsData = [
     {
         id: 5,
         title: "ASAP - Assistance against Sexual Assault for Pedriatics-disability",
-        description: "Mobile App Prototype, made as a solution to educate and help children with disabilities regarding sexual assault",
+        description: "Made as a solution to educate and help children with disabilities regarding sexual assault. (2023)",
         image: "https://v-chns.github.io/portofolio/images/projects/project5.png",
         tag: ["All", "Prototype"],
         codelink: "https://www.canva.com/design/DAFpiNayDGw/o7pqtyLJHD1PXNmY1xngGA/view?utm_content=DAFpiNayDGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
-        previewlink: "httphttps://www.figma.com/proto/nPsHWgjrtTAMxJyGGPEZeA/Venn---HackHerThon?type=design&node-id=2-10&t=oHxUCOl6erKE5e0O-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A10&mode=designs://www.canva.com/link?target=https%3A%2F%2Fwww.figma.com%2Ffile%2FnPsHWgjrtTAMxJyGGPEZeA%2FVenn---HackHerThon%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6GjnKHNK4mi8N1rh-1&design=DAFpiNayDGw&accessRole=owner&linkSource=document"
+        previewlink: "https://www.figma.com/proto/nPsHWgjrtTAMxJyGGPEZeA/Venn---HackHerThon?type=design&node-id=2-10&t=oHxUCOl6erKE5e0O-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A10&mode=designs://www.canva.com/link?target=https%3A%2F%2Fwww.figma.com%2Ffile%2FnPsHWgjrtTAMxJyGGPEZeA%2FVenn---HackHerThon%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6GjnKHNK4mi8N1rh-1&design=DAFpiNayDGw&accessRole=owner&linkSource=document"
     },
     {
         id: 6,
-        title: "BeeLive",
-        description: "Made using Figma",
+        title: "BeeLive - Mobile application for Dormitory Residents",
+        description: "Features included: digital key, room reservation, facilities access. Made using Figma. (2023)",
         image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
         tag: ["All", "Prototype"],
-        codelink: "/",
-        previewlink: "/"
+        codelink: "https://www.canva.com/design/DAFxV5-S9Ss/3_pQ9dvji-4cDjxEFkFSLQ/view?utm_content=DAFxV5-S9Ss&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+        previewlink: "https://www.figma.com/proto/FCTHTx2ODu80h1P8gPtc3p/Venn-Prototype?page-id=0%3A1&type=design&node-id=110-2374&viewport=-3202%2C871%2C0.56&scaling=scale-down&starting-point-node-id=110%3A2374&mode=design&t=VWcEhqtkz9Ul6k4V-1"
     }
 ]
 
