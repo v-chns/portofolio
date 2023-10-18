@@ -54,7 +54,7 @@ const projectsData = [
         id: 6,
         title: "BeeLive - Mobile application for Dormitory Residents",
         description: "Features included: digital key, room reservation, facilities access. Made using Figma. (2023)",
-        image: "https://v-chns.github.io/portofolio/images/projects/project1.png",
+        image: "https://v-chns.github.io/portofolio/images/projects/project6.png",
         tag: ["All", "Prototype"],
         codelink: "https://www.canva.com/design/DAFxV5-S9Ss/3_pQ9dvji-4cDjxEFkFSLQ/view?utm_content=DAFxV5-S9Ss&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
         previewlink: "https://www.figma.com/proto/FCTHTx2ODu80h1P8gPtc3p/Venn-Prototype?page-id=0%3A1&type=design&node-id=110-2374&viewport=-3202%2C871%2C0.56&scaling=scale-down&starting-point-node-id=110%3A2374&mode=design&t=VWcEhqtkz9Ul6k4V-1"
