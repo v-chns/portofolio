@@ -4,11 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export",
-    "postbuild": "cp ./out/404.html ./out/index.html"
+    "export": "next build && next export"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
